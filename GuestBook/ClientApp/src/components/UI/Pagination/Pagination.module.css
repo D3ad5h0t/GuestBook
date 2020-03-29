@@ -1,0 +1,11 @@
+.Pagination {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    flex-grow: 1;
+    width: 100%;
+}
+
+.Pagination li:hover {
+    cursor: pointer;
+}

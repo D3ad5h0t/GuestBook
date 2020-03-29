@@ -1,0 +1,7 @@
+.ButtonArea {
+    display: flex;
+    flex-grow: 1;
+    width: 100%;
+    justify-content: flex-end;
+    padding: 15px;
+}

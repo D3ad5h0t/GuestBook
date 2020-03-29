@@ -1,0 +1,32 @@
+.MessageCreator {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    flex-grow: 1;
+    width: 100%;
+}
+
+.MessageCreator > div {
+    width: 100%;
+    max-width: 600px;
+    padding: 0 20px;
+}
+
+.MessageCreator h1 {
+    color: #000;
+    text-align: center;
+}
+
+.MessageCreatorForm {
+    background: #eee;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, .5);
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.ButtonsArea {
+    display: flex;
+    flex-grow: 1;
+    width: 100%;
+    justify-content: center;
+}

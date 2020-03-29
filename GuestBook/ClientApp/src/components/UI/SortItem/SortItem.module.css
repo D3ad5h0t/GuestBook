@@ -1,0 +1,18 @@
+.SortItem {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.SortItem:hover {
+    color: #007bff;
+    cursor: pointer;
+}
+
+.active {
+    color: #007bff;
+}
+
+.active:hover {
+    color: blue;
+    cursor: pointer;
+}
